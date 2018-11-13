@@ -111,9 +111,9 @@ a{text-decoration: none;}
 .content-wrap__title--secondary{
 	font-size: 35em;
 }
-@media only screen and (max-width: 960px){
+@media only screen and (max-width: 960px) {
 .content-wrap__title--main{
-	font-size: 200em;
+	font-size: 130em;
 	}
 }
 
