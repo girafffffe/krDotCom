@@ -112,6 +112,6 @@ a{text-decoration: none;}
 }
 @media only screen and (max-width: 960px) {
 .content-wrap__title--main{
-	font-size: 130em;
+	font-size: 80em;
 	}
 }
