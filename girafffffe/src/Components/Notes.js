@@ -8,6 +8,7 @@ class Notes extends React.Component {
     return (
       {
         <div>
+<<<<<<< HEAD
      <!-- Taking time to understand my backend architecture, thanks for stopping by to checkout the site.
      What's been done so far?
      -Converted this site to a react-based app
@@ -15,6 +16,9 @@ class Notes extends React.Component {
      Whats to come?
      -understand react routing
      -implement security practices -->
+=======
+     <!--Currently making my way through the React transition for this site. STAY TUNED-->
+>>>>>>> 120436b3b7f2010a1805726851656212a5b51960
     </div>
     }
         
